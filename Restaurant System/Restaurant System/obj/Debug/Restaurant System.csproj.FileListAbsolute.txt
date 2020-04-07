@@ -1,0 +1,10 @@
+E:\Restaurant System\Restaurant System\bin\Debug\Restaurant System.exe
+E:\Restaurant System\Restaurant System\bin\Debug\Restaurant System.pdb
+E:\Restaurant System\Restaurant System\obj\Debug\Restaurant System.csprojResolveAssemblyReference.cache
+E:\Restaurant System\Restaurant System\obj\Debug\Restaurant_System.Form1.resources
+E:\Restaurant System\Restaurant System\obj\Debug\Restaurant_System.Properties.Resources.resources
+E:\Restaurant System\Restaurant System\obj\Debug\Restaurant System.csproj.GenerateResource.Cache
+E:\Restaurant System\Restaurant System\obj\Debug\Restaurant System.exe
+E:\Restaurant System\Restaurant System\obj\Debug\Restaurant System.pdb
+C:\Users\PC\Desktop\Github\skyfiprogram\Restaurant System\Restaurant System\obj\Debug\Restaurant System.exe
+C:\Users\PC\Desktop\Github\skyfiprogram\Restaurant System\Restaurant System\obj\Debug\Restaurant System.pdb
