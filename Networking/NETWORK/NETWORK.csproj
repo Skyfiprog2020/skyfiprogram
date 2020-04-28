@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53CED3F5-0340-4810-A49E-76839C8B444C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NETWORK</RootNamespace>
+    <AssemblyName>NETWORK</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\Clsaddvalue.cs" />
+    <Compile Include="Class\ClsAutoNumber.cs" />
+    <Compile Include="Class\ClsBuildComboBox.cs" />
+    <Compile Include="Class\ClsDefaultBranch.cs" />
+    <Compile Include="Class\ClsDgvView.cs" />
+    <Compile Include="Class\Clsexist.cs" />
+    <Compile Include="Class\ClsGetConnection.cs" />
+    <Compile Include="Class\ClsGetSomething.cs" />
+    <Compile Include="Class\ClsPermission.cs" />
+    <Compile Include="Class\ClsSaveNMData.cs" />
+    <Compile Include="Class\ClsValidation.cs" />
+    <Compile Include="Form\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmNewMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmNewMember.Designer.cs">
+      <DependentUpon>frmNewMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmPatientDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmPatientDashBoard.Designer.cs">
+      <DependentUpon>frmPatientDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmSecurity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmSecurity.Designer.cs">
+      <DependentUpon>frmSecurity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmUserAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmUserAdd.Designer.cs">
+      <DependentUpon>frmUserAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmUserGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmUserGroup.Designer.cs">
+      <DependentUpon>frmUserGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmUserMembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmUserMembership.Designer.cs">
+      <DependentUpon>frmUserMembership.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmUserPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmUserPermission.Designer.cs">
+      <DependentUpon>frmUserPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmNewMember.resx">
+      <DependentUpon>frmNewMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmPatientDashBoard.resx">
+      <DependentUpon>frmPatientDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmSecurity.resx">
+      <DependentUpon>frmSecurity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmUserAdd.resx">
+      <DependentUpon>frmUserAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmUserGroup.resx">
+      <DependentUpon>frmUserGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmUserMembership.resx">
+      <DependentUpon>frmUserMembership.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmUserPermission.resx">
+      <DependentUpon>frmUserPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\user add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\membership&amp;group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\permission.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

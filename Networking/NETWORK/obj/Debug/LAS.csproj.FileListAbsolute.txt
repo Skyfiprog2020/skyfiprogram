@@ -1,0 +1,14 @@
+D:\ProgramOthers\ArduinoProject\LAS\bin\Debug\LAS.exe.config
+D:\ProgramOthers\ArduinoProject\LAS\bin\Debug\LAS.exe
+D:\ProgramOthers\ArduinoProject\LAS\bin\Debug\LAS.pdb
+D:\ProgramOthers\ArduinoProject\LAS\obj\Debug\LAS.csprojResolveAssemblyReference.cache
+D:\ProgramOthers\ArduinoProject\LAS\obj\Debug\LAS.Form1.resources
+D:\ProgramOthers\ArduinoProject\LAS\obj\Debug\LAS.frmMain.resources
+D:\ProgramOthers\ArduinoProject\LAS\obj\Debug\LAS.frmPatientDashBoard.resources
+D:\ProgramOthers\ArduinoProject\LAS\obj\Debug\LAS.Properties.Resources.resources
+D:\ProgramOthers\ArduinoProject\LAS\obj\Debug\LAS.csproj.GenerateResource.Cache
+D:\ProgramOthers\ArduinoProject\LAS\obj\Debug\LAS.exe
+D:\ProgramOthers\ArduinoProject\LAS\obj\Debug\LAS.pdb
+D:\Program\ProgramDevelop\NETWORKFolder\LAS\bin\Debug\LAS.exe.config
+D:\Program\ProgramDevelop\NETWORKFolder\LAS\obj\Debug\LAS.exe
+D:\Program\ProgramDevelop\NETWORKFolder\LAS\obj\Debug\LAS.pdb

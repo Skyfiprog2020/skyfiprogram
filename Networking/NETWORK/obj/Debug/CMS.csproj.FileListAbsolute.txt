@@ -1,0 +1,11 @@
+D:\Program\ProgramClinic\CMSFolder\CMS\bin\Debug\CMS.exe.config
+D:\Program\ProgramClinic\CMSFolder\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+D:\Program\ProgramClinic\CMSFolder\CMS\obj\Debug\CMS.Form1.resources
+D:\Program\ProgramClinic\CMSFolder\CMS\obj\Debug\CMS.frmMain.resources
+D:\Program\ProgramClinic\CMSFolder\CMS\obj\Debug\CMS.Properties.Resources.resources
+D:\Program\ProgramClinic\CMSFolder\CMS\obj\Debug\CMS.csproj.GenerateResource.Cache
+D:\Program\ProgramClinic\CMSFolder\CMS\bin\Debug\CMS.exe
+D:\Program\ProgramClinic\CMSFolder\CMS\bin\Debug\CMS.pdb
+D:\Program\ProgramClinic\CMSFolder\CMS\obj\Debug\CMS.exe
+D:\Program\ProgramClinic\CMSFolder\CMS\obj\Debug\CMS.pdb
+D:\Program\ProgramClinic\CMSFolder\CMS\obj\Debug\CMS.frmPatientDashBoard.resources

@@ -1,0 +1,31 @@
+D:\Program\ProgramDevelop\NETWORKFolder\NETWORK\bin\Debug\NETWORK.exe.config
+D:\Program\ProgramDevelop\NETWORKFolder\NETWORK\bin\Debug\NETWORK.exe
+D:\Program\ProgramDevelop\NETWORKFolder\NETWORK\bin\Debug\NETWORK.pdb
+D:\Program\ProgramDevelop\NETWORKFolder\NETWORK\obj\Debug\NETWORK.csprojResolveAssemblyReference.cache
+D:\Program\ProgramDevelop\NETWORKFolder\NETWORK\obj\Debug\NETWORK.Form1.resources
+D:\Program\ProgramDevelop\NETWORKFolder\NETWORK\obj\Debug\NETWORK.frmMain.resources
+D:\Program\ProgramDevelop\NETWORKFolder\NETWORK\obj\Debug\NETWORK.frmPatientDashBoard.resources
+D:\Program\ProgramDevelop\NETWORKFolder\NETWORK\obj\Debug\NETWORK.Properties.Resources.resources
+D:\Program\ProgramDevelop\NETWORKFolder\NETWORK\obj\Debug\NETWORK.csproj.GenerateResource.Cache
+D:\Program\ProgramDevelop\NETWORKFolder\NETWORK\obj\Debug\NETWORK.exe
+D:\Program\ProgramDevelop\NETWORKFolder\NETWORK\obj\Debug\NETWORK.pdb
+E:\Updated Program\Networking\NETWORK\bin\Debug\NETWORK.exe.config
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.exe
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.pdb
+E:\Updated Program\Networking\NETWORK\bin\Debug\NETWORK.exe
+E:\Updated Program\Networking\NETWORK\bin\Debug\NETWORK.pdb
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.Form1.resources
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.frmMain.resources
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.frmNewMember.resources
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.frmPatientDashBoard.resources
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.Properties.Resources.resources
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.csproj.GenerateResource.Cache
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.frmSecurity.resources
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.frmUserAdd.resources
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.frmUserGroup.resources
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.frmUserMembership.resources
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.frmUserPermission.resources
+E:\Updated Program\Networking\NETWORK\obj\Debug\NETWORK.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Github\skyfiprogram\Networking\NETWORK\bin\Debug\NETWORK.exe.config
+C:\Users\PC\Desktop\Github\skyfiprogram\Networking\NETWORK\obj\Debug\NETWORK.exe
+C:\Users\PC\Desktop\Github\skyfiprogram\Networking\NETWORK\obj\Debug\NETWORK.pdb

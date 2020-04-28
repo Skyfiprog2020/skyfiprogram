@@ -16,6 +16,7 @@ namespace Restaurant_System
         public Form1()
         {
             InitializeComponent();
+            customizeDesign();
         }
         private void pictureBox1_Click(object sender, EventArgs e)
         {
@@ -72,5 +73,39 @@ namespace Restaurant_System
             drag = true;
             start_point = new Point(e.X, e.Y);
         }
+        private void customizeDesign()
+        {
+            pnlFile.Visible = false;
+        }
+        private void hideSubmenu()
+        {
+            if (pnlFile.Visible == true)
+            {
+                pnlFile.Visible = false;
+            }
+
+        }
+        private void showMenu(Panel subMen)
+        {
+            if(subMen.Visible == false)
+            {
+                hideSubmenu();
+                subMen.Visible = true;
+            }
+            else
+            {
+                subMen.Visible = false;
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            showMenu(pnlFile);
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            hideSubmenu();
+        }    
     }
 }
